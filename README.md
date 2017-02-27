@@ -1,11 +1,5 @@
 # express-marko - express middleware for marko template engine
 
-## Table of contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-  - [res.render](#resrenderview-locals-callback)
-
 ## Installation
 
 ```
