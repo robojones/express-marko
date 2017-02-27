@@ -1,4 +1,4 @@
-# express-marko - express middleware for marko template engine
+# express-marko
 
 ## Installation
 
