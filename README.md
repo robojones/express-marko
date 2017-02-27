@@ -20,7 +20,7 @@ app.use(marko)
 
 app.get('/', (req, res, next) => {
 
-  // this will render the file marko/home.marko
+  // this will render the file views/home.marko
   res.render('home')
 })
 
@@ -32,4 +32,3 @@ __Note:__ If you set `process.env.NODE_ENV` to `'development'`, your templates w
 ## res.render()
 
 See [res.render](http://expressjs.com/en/api.html#res.render) in the express API.
-
