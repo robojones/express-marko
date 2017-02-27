@@ -27,7 +27,7 @@ app.get('/', (req, res, next) => {
 app.listen(8080)
 ```
 
-__Note:__ If you set process.env.NODE_ENV to `'development'`, your templates will not be cached.
+__Note:__ If you set `process.env.NODE_ENV` to `'development'`, your templates will not be cached.
 
 ## res.render()
 
